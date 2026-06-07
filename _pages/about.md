@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-Welcome to my page! I am fourth year geography PhD candidate in the [School of Earth, Environment and Sustainability](https://sees.uiowa.edu/) at the University of Iowa. 
+Welcome to my page! I am a fourth year geography PhD candidate in the [School of Earth, Environment and Sustainability](https://sees.uiowa.edu/) at the University of Iowa. 
 
 My current research examines the friction points between genomic research and the neurodiversity movement, especially how different assemblages of environment are used by researchers and neurodivergent people (specifically ADHDers). Overall, I also aim to develop ethical approaches for genomic research that brings greater awareness and justice to ADHD and neurodivergent people. 
 
